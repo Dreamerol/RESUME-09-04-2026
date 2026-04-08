@@ -7,18 +7,6 @@
 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a> | 🐙 <a href="https://github.com/Dreamerol">GitHub</a>
 </p>
 
----
-
-# Resume-junior-data-analyst-mihaela-koseva
-
-<p align="center">
-<h1>MIHAELA KOSEVA</h1>
-📍 Sofia, Bulgaria | 📞 +359 89 764 3552 | ✉️ michaelakoseva@gmail.com<br>
-🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a> | 🐙 <a href="https://github.com/Dreamerol">GitHub</a>
-</p>
-
----
-
 <p align="center">
 <span style="font-size:1.1em;">
 📍 Sofia, Bulgaria | 📞 +359 89 764 3552 | ✉️ michaelakoseva@gmail.com<br>
