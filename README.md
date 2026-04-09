@@ -1,8 +1,5 @@
 
 
-
-
-
 ![Functional Programming](https://github.com/Dreamerol/Dreamerol/blob/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png)
 
 
@@ -29,10 +26,13 @@
   <span style="display:block; font-size:2.5em; display:flex; justify-content:center; gap:2em; white-space:nowrap;">
     🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a" style="text-decoration:none;">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
     🐙 <a href="https://github.com/Dreamerol" style="text-decoration:none;">𝗚𝗜𝗧𝗛𝗨𝗕</a> |
-    ⬇️ <a href="https://github.com/Dreamerol/Dreamerol/raw/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png" download style="text-decoration:none;">𝗖𝗩</a>
+    ⬇️ <a href="https://github.com/Dreamerol/Dreamerol/blob/e08afae3096768fd056ab1f08d1fccf355e0eaa0/resume-junior-data-analyst-mihaela-koseva.pdf" download style="text-decoration:none;">𝗖𝗩</a>
   </span>
 
 </div>
+
+
+https://github.com/Dreamerol/Dreamerol/blob/e08afae3096768fd056ab1f08d1fccf355e0eaa0/resume-junior-data-analyst-mihaela-koseva.pdf
 
 ---
 
