@@ -19,16 +19,6 @@
   <span style="display:block; font-size:2.5em;">
     ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
   </span>
-
-
-
-<span style="display:block; font-size:2.5em; display:flex; justify-content:center; gap:2em; white-space:nowrap;">
-  🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a" style="text-decoration:none;">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
-  ⬇️ <a resume-junior-data-analyst-mihaela-koseva.pdf" download style="text-decoration:none;">𝗥𝗘𝗦𝗨𝗠𝗘</a>
-</span>
-
-
-
   <span style="display:block; font-size:2.5em; display:flex; justify-content:center; gap:2em; white-space:nowrap;">
     🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a" style="text-decoration:none;">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
     ⬇️ <a href="https://github.com/Dreamerol/Dreamerol/blob/bf6684f9ee01d5dda8562f3e4ee0162ca407637d/CV-MIHAELA-KOSEVA.jpg" download style="text-decoration:none;">𝗥𝗘𝗦𝗨𝗠𝗘</a>
