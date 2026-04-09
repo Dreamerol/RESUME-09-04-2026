@@ -103,7 +103,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 - GitHub Repo:  
   👉 [𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
-<div align="center">
+</div>
 
 ### ⚡ 𝗥𝗢𝗟𝗘 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
