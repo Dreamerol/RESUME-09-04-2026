@@ -30,13 +30,7 @@
 
 </div>
     
-       ⬇️ <a href="https://github.com/Dreamerol/Dreamerol/blob/bf6684f9ee01d5dda8562f3e4ee0162ca407637d/CV-MIHAELA-KOSEVA.jpg" download style="text-decoration:none;">𝗥𝗘𝗦𝗨𝗠𝗘</a>
-  </span>
-
-</div>
-
-
-
+     
 ---
 
 
