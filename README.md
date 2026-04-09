@@ -31,7 +31,7 @@
 
 </div>
 
-https://github.com/Dreamerol/Dreamerol/blob/bf6684f9ee01d5dda8562f3e4ee0162ca407637d/CV-MIHAELA-KOSEVA.jpg
+
 
 ---
 
