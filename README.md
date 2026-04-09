@@ -108,7 +108,6 @@ architecture, cloud technologies, and enterprise-grade systems.
 - Implemented **core algorithms and functional modules** contributing directly to product performance and reliability  
 - GitHub Repo: 👉 [𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
-
 </div>
 
 ---
@@ -146,7 +145,6 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) | 
 𝗙𝗢𝗖𝗨𝗦: 𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
 
-
 ---
 
 <p align="center">
@@ -171,23 +169,23 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 ### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 - Designed, trained & evaluated neural networks (~90%+ accuracy).  
-- Implemented **Backpropagation 🔄** & **Gradient Descent 📉** from scratch.  
+- Implemented **Backpropagation** & **Gradient Descent** from scratch.  
 - Applied ML to dynamic system modeling (SIR model, ODE simulations).
 
 ### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
-- Full ML pipeline for **profit forecasting 📊** and trend analysis.  
-- Conducted **EDA 🔎**, feature engineering, & preprocessing.  
-- Implemented Regression, Decision Trees 🌳, and Time Series models.
+- Full ML pipeline for **profit forecasting** and trend analysis.  
+- Conducted **EDA**, feature engineering, & preprocessing.  
+- Implemented Regression, Decision Trees, and Time Series models.
 
 ### [💊 PLACEBO EFFECT ML DATA ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
 - EDA & statistical analysis on clinical datasets (5,000+ records).  
-- Hypothesis testing & correlation analysis (**p < 0.05 ✅**).  
-- Preprocessing and data visualization 📈 for clarity & insights.
+- Hypothesis testing & correlation analysis (**p < 0.05**).  
+- Preprocessing and data visualization for clarity & insights.
 
 ### [📦 DELIVERY DATA SQL SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL, Relational Databases)
-- Designed normalized relational database schema 🗄️.  
-- Optimized SQL queries (~30% performance improvement ⚡).  
-- Enabled KPI tracking & **data-driven insights 📊**.
+- Designed normalized relational database schema.  
+- Optimized SQL queries (~30% performance improvement).  
+- Enabled KPI tracking & **data-driven insights**.
 
 
 ---
