@@ -25,6 +25,21 @@
 
 ---
 
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+</p>
+
+
+---
+
 ## 📝 SUMMARY
 
 Software Engineering student at Sofia University (FMI) with a strong foundation in algorithms, problem-solving, 
@@ -124,6 +139,7 @@ Oct 2024 – Present
 ---
 
 ## 🔗 TECH BADGES
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
