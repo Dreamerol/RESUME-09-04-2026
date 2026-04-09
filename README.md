@@ -91,7 +91,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
-  **𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026**  
+**𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026**  
 - Engineered backend systems & data pipelines using Python, Java, and Clojure.  
 - Designed & implemented **REST APIs** for distributed systems 🔗.  
 - Developed scalable, modular components following **Clean Architecture 🧱**.  
@@ -103,6 +103,13 @@ architecture, cloud technologies, and enterprise-grade systems.
 - Developed mini-projects and exercises simulating real-world enterprise applications.  
 - GitHub Repo: [𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
+<p align="left">
+<b>
+𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗙𝗢𝗖𝗨𝗦: 𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦  
+𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 | 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 | 𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦
+</b>
+</p>
+
 ---
 
 <span style="font-weight:bold; display:block; margin-top:1em;">
@@ -110,13 +117,6 @@ architecture, cloud technologies, and enterprise-grade systems.
 </span>
 
 Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝗶𝗰 and 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝗿𝗲, focusing on high-performance data transfer, transformation, and synchronization between independent systems, using and leveraging 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 for scalable solutions.
-
-<p align="left">
-<b>
-𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡) — 𝗙𝗢𝗖𝗨𝗦: 𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
-𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 | 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 | 𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦
-</b>
-</p>
 
 ---
 
