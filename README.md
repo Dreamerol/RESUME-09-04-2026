@@ -273,9 +273,6 @@ Oct 2024 – Present
 
 ---
 
-## 🔗 𝗧𝗘𝗖𝗛 𝗕𝗔𝗗𝗚𝗘𝗦
-
----
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
