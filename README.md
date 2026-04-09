@@ -39,6 +39,11 @@ Highly motivated to contribute to end-to-end software development, with strong i
 - Developed mini-projects and exercises simulating real-world enterprise applications.  
 - GitHub Repo: [ZigiWave Intern Projects](https://github.com/Dreamerol/ZigiWave-Intern)
 
+𝗧𝗲𝗮𝗺: 𝗖𝗼𝗿𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 & 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀 
+Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝗶𝗰 and 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝗿𝗲, focusing on high-performance data transfer, transformation, and synchronization between independent systems, using and leveraging 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 for scalable solutions.
+
+𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗪𝗘 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 (𝗜𝗻𝘁𝗲𝗿𝗻) - 𝗝𝗮𝘃𝗮, 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 & 𝗔𝗣𝗜𝘀 | 𝗝𝗮𝘃𝗮, 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 / 𝗖𝗹𝗼𝗷𝘂𝗿𝗲𝗦𝗰𝗿𝗶𝗽𝘁 | 𝗔𝗣𝗜 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀 | 𝗖𝗼𝗿𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 & 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀
+
 ---
 
 ## 🛠️ SELECTED PROJECTS
