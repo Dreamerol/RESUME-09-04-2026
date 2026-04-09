@@ -1,46 +1,9 @@
 
-  
-
-<div align="center">
-  <h1><b>MIHAELA KOSEVA</b></h1>
-
-  </div> 
-  
-
-<div align="center">
-  
- # <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.2em;">Junior Data Analyst & Software Engineer</span> </span>
- 
-
-<div align="center">
-  
-  <span style="display:block; font-size:2.5em; margin-top:0.5em;">
-    📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔
-  </span>
-
-  <span style="display:block; font-size:2.5em;">
-    📞 +𝟯𝟱𝟵 𝟴𝟵 𝟳𝟲𝟰 𝟯𝟱𝟱𝟮
-  </span>
-
-  <span style="display:block; font-size:2.5em;">
-    ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
-  </span>
-
-  <span style="display:block; font-size:2.5em;">
-    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
-    🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> 
-  
-  </span>
-
-</div>
 
 
----
+
 
 ![Functional Programming](https://github.com/Dreamerol/Dreamerol/blob/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png)
-
----
-
 
 ---
 
