@@ -7,13 +7,6 @@
 </div>
 
 ---
-
-
-<div align="center">
-  <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.2em;">Junior Data Analyst & Software Engineer</span>
- 
-
----
   
 # <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.2em;">Junior Data Analyst & Software Engineer</span>
 <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.5em;">📍 Sofia, Bulgaria</span>
