@@ -98,10 +98,23 @@ architecture, cloud technologies, and enterprise-grade systems.
 - Contributed to data processing workflows, improving **efficiency ⚡**.  
 - Participated in **Agile development cycles 🏃‍♀️**, code reviews, and version control (**Git 🐙**).
 
-📝 𝗛𝗔𝗡𝗗𝗦-𝗢𝗡 𝗧𝗥𝗔𝗜𝗡𝗜𝗡𝗚 𝗔𝗧 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
-- Practical coding experience in **Java ☕**, **Clojure ⚡**, and **API Systems 🔗**.  
-- Developed mini-projects and exercises simulating real-world enterprise applications.  
-- GitHub Repo:  👉 [𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+
+---
+## 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
+
+**𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦** ⚙️ – DEVELOPING EFFICIENT, REUSABLE ALGORITHMIC SOLUTIONS  
+**𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦** 🔗 – ENSURING SEAMLESS COMMUNICATION BETWEEN INDEPENDENT SYSTEMS  
+**𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦** ⚡ – DESIGNING PIPELINES FOR HIGH-PERFORMANCE DATA PROCESSING  
+
+---
+
+## 📝 𝗥𝗘𝗔𝗟-𝗪𝗢𝗥𝗟𝗗 𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
+
+- Built and enhanced **core platform features** using **𝗝𝗔𝗩𝗔**, **𝗖𝗟𝗢𝗝𝗨𝗥𝗘**, and **𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
+- Developed and maintained **scalable data pipelines** and **system integrations** powering enterprise-level workflows  
+- Implemented **core algorithms and functional modules** contributing directly to product performance and reliability  
+- GitHub Repo: 👉 [𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+
 
 </div>
 
