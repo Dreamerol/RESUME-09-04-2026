@@ -24,7 +24,7 @@
 
 <span style="display:block; font-size:2.5em; display:flex; justify-content:center; gap:2em; white-space:nowrap;">
   🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a" style="text-decoration:none;">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
-  ⬇️ <a https://github.com/Dreamerol/Dreamerol/blob/2e25e4817c4c655aaf392e9a76c38acbd523df25/resume-junior-data-analyst-mihaela-koseva.pdf" download style="text-decoration:none;">𝗥𝗘𝗦𝗨𝗠𝗘</a>
+  ⬇️ <a resume-junior-data-analyst-mihaela-koseva.pdf" download style="text-decoration:none;">𝗥𝗘𝗦𝗨𝗠𝗘</a>
 </span>
 
 
