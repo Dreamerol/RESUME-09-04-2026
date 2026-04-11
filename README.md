@@ -32,70 +32,6 @@
 
 
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
-  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
-  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
-  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
-</p>
-
-
-
----
-
-
-
-<!-- ROW 1 -->
-<p align="center">
-
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/f62976e353d1a4c3c1d61acb9da6d89f33c9f8a3/NN.webp" width="250" height="150"/>
-  </a>
-
-   <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/3f63dc7778440e85c0af7a73e73e0ae2e74439ee/API_Placebo_Effect.webp" width="250" height="150"/>
-  </a>
-  
-  <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="display:inline-block; margin:10px;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/c767a4e77a40ce73e646571524ef0443182a4d02/46c891e0565c033d0f3f21e79b49ce1d%20(1).jpg" width="250" height="150"/>
-  </a>
-
-  
-</p>
-
-<!-- ROW 2 -->
-
-<p align="center">
-
-  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="display:inline-block; margin:10px; vertical-align:top;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg" width="250" height="150"/>
-  </a>
-
-  <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="display:inline-block; margin:10px; vertical-align:top;">
-    <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" width="250" height="150"/>
-  </a>
-
-  <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="display:inline-block; margin:10px; vertical-align:top;">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG" width="250" height="150"/>
-  </a>
-
-</p>
-
-
----
-
-    
-
-
 <div align="center">
 
 ## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
@@ -194,8 +130,71 @@
 </div>
 
 
+
+
+
 ---
 
+
+
+<!-- ROW 1 -->
+<p align="center">
+
+  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS" style="display:inline-block; margin:10px;">
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/f62976e353d1a4c3c1d61acb9da6d89f33c9f8a3/NN.webp" width="250" height="150"/>
+  </a>
+
+   <a href="https://github.com/Dreamerol/PLACEBO-EFFECT" style="display:inline-block; margin:10px;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/3f63dc7778440e85c0af7a73e73e0ae2e74439ee/API_Placebo_Effect.webp" width="250" height="150"/>
+  </a>
+  
+  <a href="https://github.com/Dreamerol/PROFIT-PREDICTOR" style="display:inline-block; margin:10px;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/c767a4e77a40ce73e646571524ef0443182a4d02/46c891e0565c033d0f3f21e79b49ce1d%20(1).jpg" width="250" height="150"/>
+  </a>
+
+  
+</p>
+
+<!-- ROW 2 -->
+
+<p align="center">
+
+  <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/9b9c59f5b92a0ede47091ece2209379932bd64f9/SQL.jpg" width="250" height="150"/>
+  </a>
+
+  <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" width="250" height="150"/>
+  </a>
+
+  <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS" style="display:inline-block; margin:10px; vertical-align:top;">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/47366a45d19b59bdd42ffe50cfb1d539cce369d3/MATH4.JPG" width="250" height="150"/>
+  </a>
+
+</p>
+
+
+---
+
+  
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+</p>
+
+---
 
 ## 📝𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
