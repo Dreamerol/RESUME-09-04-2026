@@ -31,7 +31,7 @@
 
 <div align="center">
 
-# 🟢 PROJECTS
+ 🟢 PROJECTS
 
 </div>
 
