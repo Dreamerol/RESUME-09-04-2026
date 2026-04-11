@@ -759,15 +759,6 @@ Oct 2024 – Present
 - **Participant** — National Mathematics & Physics Olympiads 🏅  
 
 
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
-
-
 
 ---
 
