@@ -1,11 +1,10 @@
 
 # <p align="center"><b>MIHAELA KOSEVA</b></p>
-
 ---
 
 <h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
 
-
+---
 
 
 <div align="center">
