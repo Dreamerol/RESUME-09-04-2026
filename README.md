@@ -104,6 +104,7 @@
 
 ---
 
+
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
     <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
@@ -314,6 +315,13 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 ---
 
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
+  </a>
+</h3>
+
+---
 
 
 <p align="center">
@@ -340,10 +348,6 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
-
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -381,14 +385,6 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/MODERN-C-CPP-CODE">
-  <img height="65" src="https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-  <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -408,7 +404,6 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 </p>
 
 </div>
-
 
 
 ---
@@ -547,8 +542,8 @@ Oct 2024 – Present
 </h2>
 
 
-<p align="center">
 
+<p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -572,11 +567,6 @@ Oct 2024 – Present
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">
   <img height="65" src="https://img.shields.io/badge/Numerical%20Analysis-1E90FF?style=for-the-badge"/>
-
-  <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
-  <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -614,14 +604,6 @@ Oct 2024 – Present
   <img height="65" src="https://img.shields.io/badge/ML%20Analysis-FF4081?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Dreamerol/MODERN-C-CPP-CODE">
-  <img height="65" src="https://img.shields.io/badge/Modern%20C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
-  <img height="65" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge"/>
-</a>
-
 <a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
   <img height="65" src="https://img.shields.io/badge/SQL%20System-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </a>
@@ -646,7 +628,11 @@ Oct 2024 – Present
 ---
 
 
-
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>⭐ Click any badge to view its GitHub repository:</em></strong>
+  </a>
+</h3>
 
 
 ---
