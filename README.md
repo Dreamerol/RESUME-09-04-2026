@@ -1,6 +1,38 @@
 
 
+
+
 ![my-banner](Banner-SMALL.png)
+
+---
+
+<div align="center">
+
+  <span style="display:block; font-size:2.5em; margin-top:0.5em;">
+    📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔
+  </span>
+
+  <span style="display:block; font-size:2.5em;">
+    📞 +𝟯𝟱𝟵 𝟴𝟵 𝟳𝟲𝟰 𝟯𝟱𝟱𝟮
+  </span>
+
+  <span style="display:block; font-size:2.5em;">
+    ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
+  </span>
+
+  <span style="display:block; font-size:2.5em;">
+    🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
+    📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> |
+    🌐 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a>
+  </span>
+
+</div>
+
+
+---
+
+
+<h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
 
 ---
 
