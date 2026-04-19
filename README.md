@@ -504,16 +504,6 @@ Oct 2024 – Present
 ---
 
 
-<h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>✨ Click any badge to view project</em></strong>
-  </a>
-</h3>
-
-
----
-
-
 <p align="center">
 
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
@@ -596,6 +586,12 @@ Oct 2024 – Present
 </div>
 
 ---
+
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>✨ Click any badge to view project</em></strong>
+  </a>
+</h3>
 
 
 
