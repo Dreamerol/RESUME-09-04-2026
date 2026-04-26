@@ -24,7 +24,7 @@
 </div>
 
  
----
+<br>
 
 <p align="center">
   
@@ -45,7 +45,7 @@
 </p>
 
 
----
+<br>
 
 
 <h2 align="center">
@@ -62,8 +62,7 @@ Python • SQL • Data Analysis • Machine Learning
 
 
 
-
----
+<br>
 
 
 
@@ -73,9 +72,8 @@ Python • SQL • Data Analysis • Machine Learning
   </a>
 </h3>
 
+<br>
 
-
----
 
 <p align="center">
 
@@ -160,11 +158,11 @@ Python • SQL • Data Analysis • Machine Learning
 
 
 
----
+<br>
 
 
 
-## 📝𝗦𝗨𝗠𝗠𝗔𝗥𝗬
+## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
 
 
@@ -177,10 +175,7 @@ Python • SQL • Data Analysis • Machine Learning
 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝘀𝘆𝘀𝘁𝗲𝗺𝘀, 𝘄𝗶𝘁𝗵 𝗮 𝘀𝘁𝗿𝗼𝗻𝗴 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻 𝗺𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗲𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲-𝗴𝗿𝗮𝗱𝗲 𝘀𝘆𝘀𝘁𝗲𝗺 𝗱𝗲𝘀𝗶𝗴𝗻.
 
 
----
-
-
-
+<br>
 
 
 
@@ -202,10 +197,10 @@ Python • SQL • Data Analysis • Machine Learning
 
 
 
+<br>
 
 
 
----
 
 
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
@@ -219,7 +214,7 @@ Python • SQL • Data Analysis • Machine Learning
 - Contributed to data processing workflows, improving **efficiency ⚡**  
 - Participated in **𝗔𝗚𝗜𝗟𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 𝗖𝗬𝗖𝗟𝗘𝗦 🏃‍♀️**, **𝗖𝗢𝗗𝗘 𝗥𝗘𝗩𝗜𝗘𝗪𝗦 🔍**, and **𝗩𝗘𝗥𝗦𝗜𝗢𝗡 𝗖𝗢𝗡𝗧𝗥𝗢𝗟 (𝗚𝗜𝗧 🐙)**
 
----
+<br>
 
 ### 📝 𝗥𝗘𝗔𝗟-𝗪𝗢𝗥𝗟𝗗 𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 @ 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘
 
@@ -233,7 +228,7 @@ Python • SQL • Data Analysis • Machine Learning
 
 
 
----
+<br>
 
 
 
@@ -254,8 +249,7 @@ Python • SQL • Data Analysis • Machine Learning
 </p>
 
 
-
----
+<br>
 
 ### 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
 
@@ -273,7 +267,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 
 
----
+<br>
 
 
 
@@ -283,9 +277,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
   </a>
 </h3>
 
-
-
----
+<br>
 
 
 <p align="center">
@@ -370,7 +362,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 </div>
 
 
----
+<br>
 
 <h2 align="center">
   
@@ -379,7 +371,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
   </a>
 </h2>
 
-
+<br>
 
 
 ### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
@@ -409,8 +401,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 - Central hub linking all repositories and professional profiles.
 
 
----
-
+<br>
 
 
 <p align="center">
@@ -430,7 +421,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 </p>
 
 
----
+<br>
 
 
 
@@ -444,9 +435,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 **🛠️ Tools & Practices:** Git 🐙, Jupyter Notebook 📓, VS Code, Agile/Scrum 🏃‍♀️, OOP 🧩, Clean Code, Modular Architecture, Scalable Systems Design
 
 
----
-
-
+<br>
 
 
 
@@ -467,9 +456,9 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 </p>
 
 
+<br>
 
 
----
 
 ## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
 **Sofia University (FMI)** — Bachelor’s in Software Engineering  
@@ -478,9 +467,9 @@ Oct 2024 – Present
 **Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
 
 
+<br>
 
 
----
 
 ## 🏅 𝗖𝗘𝗥𝗧𝗜𝗙𝗜𝗖𝗔𝗧𝗜𝗢𝗡𝗦 & 𝗖𝗢𝗨𝗥𝗦𝗘𝗦
 - Data Science — SoftUni 📊  
@@ -488,8 +477,8 @@ Oct 2024 – Present
 - Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
 
 
+<br>
 
----
 
 ## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦
 - **Laureate** — FMI Mathematical National Competition 🥇  
@@ -497,7 +486,7 @@ Oct 2024 – Present
 
 
 
----
+<br>
 
 
 <p align="center">
@@ -581,7 +570,7 @@ Oct 2024 – Present
 
 </div>
 
----
+<br>
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
